@@ -113,6 +113,10 @@ src
 git clone https://github.com/mnxmnz/IN-CYWORLD.git
 ```
 
+```sh
+cd IN-CYWORLD
+```
+
 #### [3] Install Packages
 
 ```sh
